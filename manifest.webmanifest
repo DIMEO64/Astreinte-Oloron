@@ -1,11 +1,10 @@
 {
-  "name": "Astreinte – Enregistreur d'heures",
-  "short_name": "Astreinte",
+  "name": "Astreinte Oloron",
+  "short_name": "Astreinte Oloron",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#0ea5e9",
-  "lang": "fr-FR",
   "icons": [
     {
       "src": "/icons/icon-192.png",
