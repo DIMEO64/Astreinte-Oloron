@@ -2,7 +2,7 @@
   "name": "Astreinte Oloron",
   "short_name": "Astreinte Oloron",
   "start_url": "/",
-"scope": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#0ea5e9",
